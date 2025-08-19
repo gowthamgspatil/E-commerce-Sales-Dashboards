@@ -118,3 +118,10 @@ The goal is to provide **business insights** into sales performance, customer be
 * Built an **end-to-end BI pipeline** from raw data → clean model → insights.
 * Enhanced **DAX & visualization** skills in Power BI.
 
+
+
+* **Email**: [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
+* **LinkedIn**: [linkedin.com/in/gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
+
+
+
